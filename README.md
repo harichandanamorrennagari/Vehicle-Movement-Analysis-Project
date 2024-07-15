@@ -28,19 +28,7 @@ Setup
 pip install numpy pandas matplotlib imutils pytesseract
 2.Install Tesseract-OCR:
 sudo apt-get install tesseract-ocr
-Project Structure
-VehicleLicensePlateDetection/
-│
-├── Images/
-│   ├── vehicle1.jpg
-│   ├── vehicle2.jpg
-│   ├── ...
-│   └── vehicle12.jpg
-│
-├── vehicles.csv
-├── parking_lot.csv
-├── main.py
-└── README.md
+
 
 Step-by-Step Process
 1.Image Processing and OCR
